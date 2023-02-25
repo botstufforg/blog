@@ -1,4 +1,13 @@
 # Suleman Manji - Infrastructure Engineer
+<nav>
+    <ul>
+        <li><a href="home.md">Home</a></li>
+        <li><a href="about.md">About</a></li>
+        <li><a href="services.md">Services</a></li>
+        <li><a href="contact.md">Contact</a></li>
+    </ul>
+</nav>
+
 
 I am a highly skilled and experienced infrastructure engineer with a strong interest in privileged accesses, automation, and applied technologies. I am proficient in a wide range of technical skills, including:
 
