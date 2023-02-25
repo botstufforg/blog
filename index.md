@@ -1,4 +1,4 @@
-# Suleman Manji - Infrastructure Engineer at Fulcrum Technology Solutions, LLC
+# Suleman Manji - Engineering at www.FTSC.com
 
 Suleman Manji is an infrastructure engineer located in Greater Houston with a strong interest in privileged accesses, automation, and applied technologies. He is dedicated to improving the performance and security of IT infrastructure and has extensive experience in desktop administration, cloud computing, network administration, and more.
 
