@@ -29,8 +29,8 @@ I have a Bachelor’s degree in Management of Information Systems from the Bauer
 
 ## Contact
 
-- Mobile: 2819041969
-- Email: ssmanji89@gmail.com
+- Mobile: [000.000-0000]
+- Email: suleman@botstuff.org
 - LinkedIn: www.linkedin.com/in/sulemanmanji
 
 ### Portfolio
@@ -49,11 +49,11 @@ I have a Bachelor’s degree in Management of Information Systems from the Bauer
 
 - Corporate Entrepreneurship / Intrapreneurship 
 - Microsoft Certified: Azure Administrator Associate (AZ-104)
-- Microsoft Certified: Azure Solutions Architect (AZ-305)
-- CyberArk Cloud Delivery Engineer
-- CyberArk Guardian 
+- Microsoft Certified: Azure Solutions Architect (AZ-305)*
+- CyberArk Cloud Delivery Engineer*
+- CyberArk Guardian *
 - CyberArk Defender 
-- CyberArk Sentry
+- CyberArk Sentry*
 - CyberArk Loosely Connected Devices
 - CyberArk Trustee
 - Axcient Certified Engineer
@@ -65,7 +65,6 @@ I have a Bachelor’s degree in Management of Information Systems from the Bauer
 
 ## Publications
 
-- Equity Assets
 - Impactful Automation - Automation that Hits the Mark
 - Scalable OTP Authentication
 - Logic for Programmatic Decision Making against Equity Assets
