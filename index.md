@@ -1,80 +1,81 @@
-# Suleman Manji - Infrastructure Engineer
-I am a highly skilled and experienced infrastructure engineer with a strong interest in privileged accesses, automation, and applied technologies. I am proficient in a wide range of technical skills, including:
+---
+layout: default
+title: Suleman Manji - Infrastructure Engineer at Fulcrum Technology Solutions, LLC
+description: Suleman Manji is an infrastructure engineer located in Greater Houston with a strong interest in privileged accesses, automation, and applied technologies. He has technical proficiencies in desktop administration, cloud computing, network administration, and more, and holds various certifications, including CyberArk Cloud Delivery Engineer and Microsoft Certified: Azure Administrator Associate.
+---
 
-- Desktop Administration
-- Microsoft SQL Server
-- Virtualized Desktop Computing
-- Managed Services
-- Management
-- Troubleshooting
-- Cloud Computing
-- Infrastructure Virtualization
-- Network Administration
-- Systems Implementation
+# Suleman Manji - Infrastructure Engineer at Fulcrum Technology Solutions, LLC
 
-I am also skilled in:
+Suleman Manji is an infrastructure engineer located in Greater Houston with a strong interest in privileged accesses, automation, and applied technologies. He is dedicated to improving the performance and security of IT infrastructure and has extensive experience in desktop administration, cloud computing, network administration, and more.
 
-- Written and Verbal Communications
-- Technical Writing
-- Project Management
-- Training
-- SOP Development
-- Business Intelligence
-- Negotiations Management
-- Incident/Crisis Management
-- The ability to perform well under pressure
+## Summary
 
-I have a Bachelor’s degree in Management of Information Systems from the Bauer School of Business at the University of Houston-Main, and I am an avid researcher with a passion for science documentaries and technical certifications.
+In addition to his technical proficiencies, Suleman has strong skills in written and verbal communications, technical writing, project management, training, SOP development, business intelligence, negotiations management, and incident/crisis management. He is also an avid researcher with a passion for science documentaries and technical certifications.
 
 ## Contact
 
-- Mobile: [000.000-0000]
+To learn more about Suleman and his work, you can contact him via:
+
+- Mobile: (insert mobile number)
 - Email: suleman@botstuff.org
 - LinkedIn: www.linkedin.com/in/sulemanmanji
 
-### Portfolio
+## Portfolio
+
+Suleman's portfolio includes:
 
 - Twitter: twitter.com/slullyman
 - Github: github.com/ssmanji89/botStuff
 
 ## Skills
 
-- Privileged Access
-- Directory Services
-- Incident Response Management
-- and 57 More!
+Suleman has technical proficiencies in a range of areas, including:
+
+- Desktop administration
+- Microsoft SQL Server
+- Virtualized desktop computing
+- Managed services
+- Cloud computing
+- Infrastructure virtualization
+- Network administration
+- Systems implementation
 
 ## Certifications
 
-- Corporate Entrepreneurship / Intrapreneurship 
+Suleman holds various certifications that demonstrate his expertise in IT infrastructure and security, including:
+
+- Corporate entrepreneurship/intrapreneurship 
 - Microsoft Certified: Azure Administrator Associate (AZ-104)
-- Microsoft Certified: Azure Solutions Architect (AZ-305)*
-- CyberArk Cloud Delivery Engineer*
-- CyberArk Guardian *
+- Microsoft Certified: Azure Solutions Architect (AZ-305)
+- CyberArk Cloud Delivery Engineer
+- CyberArk Guardian 
 - CyberArk Defender 
-- CyberArk Sentry*
+- CyberArk Sentry
 - CyberArk Loosely Connected Devices
 - CyberArk Trustee
 - Axcient Certified Engineer
 
 ## Honors and Awards
 
+Suleman has been recognized for his academic and professional achievements, including:
+
 - Dean's List (2011 / 2012 / 2013; The University of Houston - Bauer School of Business)
 - Make It Better Award (2014; ERGOS Technology)
 
 ## Publications
 
+Suleman has published various technical papers and articles, including:
+
+- Equity Assets
 - Impactful Automation - Automation that Hits the Mark
 - Scalable OTP Authentication
 - Logic for Programmatic Decision Making against Equity Assets
 
 ## Languages
 
-- English (Native)
-- Urdu
-- Hindi
+Suleman is fluent in English, Urdu, and Hindi.
 
 ## Education
 
-- University of Houston, C.T. Bauer College of Business - Bachelor of Business Administration in Management Information Systems (2013)
-- Dulles High School - High School Diploma in Liberal Arts and Sciences, General Studies and Humanities (2008)
+Suleman holds a Bachelor of Business Administration in Management Information Systems from the Bauer School of Business at the University of Houston-Main and a High School Diploma in Liberal Arts and Sciences, General Studies and Humanities from Dulles High School.
+
